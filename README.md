@@ -3,6 +3,8 @@
 Chair: Leon Kos, PRACE
 Monday 16:30 - 18:00	
 
+  
+
 Agenda:
 - Environment modules
 - Python on HPC systems
@@ -14,6 +16,8 @@ What you will learn
 - How to write batch
 
 # Basic use of HPC environment
+
+    git clone https://gitlab.eudat.eu/eudat-prace-2019/computing-architecture.git
 
 ## Using miniconda and conda
 
