@@ -1,0 +1,8 @@
+name: rtd
+channels:
+- conda-forge
+dependencies:
+- python
+- pip
+- pip:
+   - sphinx_rtd_theme

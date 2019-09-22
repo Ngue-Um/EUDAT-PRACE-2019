@@ -1,0 +1,16 @@
+name: data_analysis
+channels:
+- conda-forge
+dependencies:
+- python
+- pip
+- netCDF4
+- numpy 
+- scipy 
+- basemap 
+- matplotlib 
+- jupyter 
+- xlrd 
+- pandas
+- tmux
+- pip:
